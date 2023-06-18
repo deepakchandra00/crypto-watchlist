@@ -10,7 +10,7 @@ npm install
 node index.js
 ```
 
-### Start the Vue app
+### Start the Client app
 
 ```
 cd client
